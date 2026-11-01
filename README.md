@@ -89,5 +89,3 @@ Aspiring Data Analyst | Python | Machine Learning | Data Science | Data Analysis
 ⭐ If you find this project interesting, feel free to explore the dashboard and its features.
 
 **Thank you for visiting my project!**
-# Dashboard preview
-![Store Sales Dashboard](storedashboard.png)
